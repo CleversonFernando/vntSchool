@@ -3,10 +3,10 @@ Algoritmo "Estatistica de grupo"
 Var
 
    quantidade: inteiro
-   lista_nome: vetor[1..2] de caractere
-   lista_altura: vetor[1..2] de real
-   lista_peso: vetor[1..2] de real
-   lista_sexo: vetor[1..2] de caractere
+   lista_nome: vetor[1..250] de caractere
+   lista_altura: vetor[1..250] de real
+   lista_peso: vetor[1..250] de real
+   lista_sexo: vetor[1..250] de caractere
    quantidade_homens, quantidade_mulheres: real
    media_peso: real
    maior_pessoa: caractere
