@@ -3,10 +3,10 @@ Algoritmo "Estatistica de grupo"
 Var
 
    quantidade: inteiro
-   lista_nome: vetor[1..5] de caractere
-   lista_altura: vetor[1..5] de real
-   lista_peso: vetor[1..5] de real
-   lista_sexo: vetor[1..5] de inteiro
+   lista_nome: vetor[1..2] de caractere
+   lista_altura: vetor[1..2] de real
+   lista_peso: vetor[1..2] de real
+   lista_sexo: vetor[1..2] de caractere
    quantidade_homens, quantidade_mulheres: real
    media_peso: real
    maior_pessoa: caractere
@@ -27,13 +27,12 @@ Inicio
       leia(lista_altura[i])
       escreval("Digite o peso: ")
       leia(lista_peso[i])
-      escreval("Escolha  [0] para M ou [1] para F: ")
+      escreval("Escolha M para masculino ou F para feminino: ")
       leia(lista_sexo[i])
-      se((lista_sexo[i] = 0) OU (lista_sexo[i] = 1))entao
+      se((lista_sexo[i] = "M") OU (lista_sexo[i] = "F"))entao
          i <- i - 1
       senao
-         escreva("Valores incorretos!")
-         i <- i + 1
+         escreval("Valores incorretos!")
       fimse
 
    fimenquanto
@@ -41,7 +40,7 @@ Inicio
    i <- quantidade
 
    enquanto (i > 0) faca
-      se(lista_sexo[i] = 0)entao
+      se(lista_sexo[i] = "M")entao
          quantidade_homens <- quantidade_homens + 1
       senao
          quantidade_mulheres <- quantidade_mulheres + 1
@@ -61,7 +60,7 @@ Inicio
 
    escreval("Quantidade de homens: ", quantidade_homens, "%")
    escreval("Quantidade de mulheres: ", quantidade_mulheres, "%")
-   escreval("Media de peso das pessoas: ", media_peso)
+   escreval("Media de peso das pessoas: ", media_peso, "Kg")
    escreval("Pessoa mais alta: ", maior_pessoa)
 
 Fimalgoritmo
