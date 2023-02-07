@@ -15,22 +15,23 @@ Inicio
    se((massa <= 0) OU (altura <= 0))entao
       escreval("Valores negativos ou zero nao sao valores validos!")
    senao
-      resultado <- 15
+   
+      resultado <- massa / altura^2
 
-      escolha (resultado)
-      caso < 16
+      escolha resultado
+      caso 1 ate 15,9
          situacao <- "Magraza grave"
-      caso(>= 16) E ( < 17)
+      caso 16 ate 16,9
          situacao <- "Magraza moderada"
-      caso(>= 17) E ( < 18.5)
+      caso 17 ate 18.4
          situacao <- "Magraza leve"
-      caso(>= 18.5) E ( < 25)
+      caso 18.5 ate 24.9
          situacao <- "Saldavel"
-      caso(>= 25) E ( < 30)
+      caso 25 ate 29.9
          situacao <- "Sobrepeso"
-      caso(>= 30) E ( < 35)
+      caso 30 ate 34.9
          situacao <- "Obesidade grau I"
-      caso(>= 35) E ( < 40)
+      caso 35 ate 39.9
          situacao <- "Obesidade grau II (Severa)"
       outrocaso
          situacao <- "Obesidade grau III (Morbida)"
