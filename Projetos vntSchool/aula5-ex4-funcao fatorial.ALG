@@ -11,9 +11,10 @@ inicio
 
    contador <- numero
    somar <- numero
+   resultado <- 1
 
    enquanto (contador > 0) faca
-      resultado <- resultado + somar
+      resultado <- (resultado * somar)
       somar <- (somar - 1)
       contador <- (contador - 1)
    fimenquanto
