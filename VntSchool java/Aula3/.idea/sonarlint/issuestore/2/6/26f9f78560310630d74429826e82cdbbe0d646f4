@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
+J
+java:S1481"/Remove this unused "mediaTotal" local variable.(×Öˆ«şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ÒÚÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÙÁĞşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ•µœÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ“° 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨­Ó¨
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ïöÎ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(À²£²8–ÚÆÙå0
