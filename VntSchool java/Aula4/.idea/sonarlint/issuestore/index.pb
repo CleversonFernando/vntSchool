@@ -13,3 +13,5 @@ S
 #src/main/java/aula4/Exercicio5.java,7\4\74c9ebe07ec928daf667ee625283b013d1613b25
 S
 #src/main/java/aula4/Exercicio6.java,1\b\1b52008825dcf753b78c5dc8f0a3cf9ed66dac67
+S
+#src/main/java/aula4/Exercicio7.java,4\c\4cdf5b2a7ef51f8039264fa5deb65e3c8e5abf54
