@@ -15,3 +15,5 @@ S
 #src/main/java/aula4/Exercicio6.java,1\b\1b52008825dcf753b78c5dc8f0a3cf9ed66dac67
 S
 #src/main/java/aula4/Exercicio7.java,4\c\4cdf5b2a7ef51f8039264fa5deb65e3c8e5abf54
+S
+#src/main/java/aula4/Exercicio8.java,f\3\f3b0379b8b3f8b545b4e1494825d60e3337f4deb

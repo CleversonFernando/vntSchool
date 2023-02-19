@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å´óˆ
+S
+java:S1659"">Declare "b" and all following declarations on a separate line.(Èáô
+a
+java:S1659#"DDeclare "circulo" and all following declarations on a separate line.(åó»8áˆ±Îæ0
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ß³ ª
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ååÁÿÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(´ŞÁŞ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(×’ë¹úÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ƒå¯Ã
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ò‰šò
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(†Ì‡¦
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¾İ¯Šúÿÿÿÿ
