@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d52652-2d54-4e7a-8cc2-d0b9b6116c90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/VntSchool java/Aula4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VntSchool java/Aula4/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b506e5af-b039-41ea-83cf-b77f4813cf07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +29,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Lq351Tf04MssZQk25YIC7Ce1Wn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2MKuVZSMqais92gBfCga9siBi81" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,18 +41,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula2"
+    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula3",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8d52652-2d54-4e7a-8cc2-d0b9b6116c90" name="Changes" comment="" />
-      <created>1676584599758</created>
+      <changelist id="b506e5af-b039-41ea-83cf-b77f4813cf07" name="Changes" comment="" />
+      <created>1677528622224</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676584599758</updated>
+      <updated>1677528622224</updated>
     </task>
     <servers />
   </component>
@@ -60,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

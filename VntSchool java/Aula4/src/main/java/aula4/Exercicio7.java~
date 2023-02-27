@@ -1,0 +1,66 @@
+package aula4;
+
+import java.util.*;
+
+public class Exercicio7 {
+
+    public static class Pedidos {
+        int codigo;
+        int quantidade;
+        int valorUnitario;
+        double total;
+
+        public Pedidos(int codigo, int quantidade, int valorUnitario, double total) {
+            this.codigo = codigo;
+            this.quantidade = quantidade;
+            this.valorUnitario = valorUnitario;
+            this.total = total;
+        }
+
+
+        public String toString() {
+            "Entrada: " + codigo
+            ","quantidade","valorUnitario"     VALOR A PAGAR: R$ %.2f", total;
+            return sb.toString();
+        }
+
+    }
+
+    public static double calcularTotal(int quantidade, int valorUnitario) {
+        double total;
+        total = (quantidade * valorUnitario);
+        return total;
+    }
+
+    public static void main(String[] args) {
+
+        Locale.setDefault(Locale.US);
+        List<Pedidos> list = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+
+        int codigo = 0;
+        int quantidade = 0;
+        int valorUnitario = 0;
+        double total = 0;
+
+        System.out.println("Entre com o número de peças que deseje cadastrar:");
+        int i = sc.nextInt();
+        for (i = i; i > 0; i--) {
+            System.out.println("Entre com o código da peça: " + i);
+            codigo = sc.nextInt();
+            System.out.println("Entre com o número de peças: " + i);
+            quantidade = sc.nextInt();
+            System.out.println("Entre com o valor unitário: " + i);
+            valorUnitario = sc.nextInt();
+            total = calcularTotal(quantidade, valorUnitario);
+            Pedidos pedidos = new Pedidos(codigo, quantidade, valorUnitario, total);
+            list.add(pedidos);
+        }
+        System.out.printf(String.valueOf(list));
+        sc.close();
+    }
+}
+
+
+
+

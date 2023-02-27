@@ -5,98 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a2272e-4ec1-4be9-8735-98921f7e812a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/area do circulo.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/comparar precos.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/equacao segundo grau.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/matriz.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/programa solidario.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/selectionsort1.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/selectionsort2.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicios das aulas/vetores.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex1-conta corrente.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex10-formador de triangulos.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex2-media harmonica.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex3-area do circulo.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex4-calcular idade.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex5-conversao de moeda.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex6-conversao de temperatura.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex7-area do trapezio.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex8-conversor de graus.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula2-ex9-comparar numeros.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex1-algoritimo par impar.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex10-desafio supermercado.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex2-identificador positivo negativo par impar.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex3-financiamento.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex4-media semestral.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex5-google.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex6-programa solidario.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex7-calculadora.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex8-calcular IMC -escolha-caso.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex8-calcular IMC -se-senao.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula3-ex9-ordenador de valores.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex1-Calculo fatorial.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex2-identificador numeros primos.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex3-nota final maior.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex4-numeros perfeitos.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex5-estatistica de grupo.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex6-algoritimo contagem inteligente.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex7-salario funcionario.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex8-material radioativo.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula4-ex9-desafio universidade.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex1-procedimento subtracao.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex2-procedimento par impar.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex3-procedimento numero crescente.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex4-funcao fatorial.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex5-procedimento fibonacci.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex6-funcao fibonacci.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex7-tabuada.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula5-ex8-funcoes string.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula6-ex3-media alunos.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula6-ex5-lista de nomes.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula6-ex6-correcao de prova.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula6-ex7-matriz de quarta ordem.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula6-ex8-matriz ordem par.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula7-ex1-salario professores.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula7-ex2-numeros aleatorios.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula7-ex3-medias alturas.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula7-ex4-supermercado.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula8-ex1-vetores.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula8-ex2-vetores2.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projetos vntSchool/aula8jogo da velha.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/sonarlint/issuestore/c/7/c730ec2644427e8c5593ed50a39b6391b3719a79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/HelloWorld/src/main/java/helloworld/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/sonarlint/issuestore/2/7/27ed7e86335a1004eb4bc4d11bb4e7a1aaca8d12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/IdentificadorIdiomas/src/main/java/identificadorIdiomas/IdentificadorIdiomas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/sonarlint/issuestore/7/3/736c1a4ba6f2c4f3a5c0a065a6632cc6b666749c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java vntSchool/Resolucao/src/main/java/resolucao/Resolucao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/0/3/03d436af919b1ad424d99a53fa18a9f785586bc6" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/0/3/03d436af919b1ad424d99a53fa18a9f785586bc6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula3"
+    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
