@@ -1,3 +1,19 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+\
+,src/main/java/exerciciosAula/Exercicio4.java,6\f\6f382d0226947c2ca80eef597570200549d1be0c
+\
+,src/main/java/exerciciosAula/Exercicio3.java,8\b\8bcf5e25d2bcfda4214f69c60434b891d9f19d02
+\
+,src/main/java/exerciciosAula/Exercicio1.java,d\6\d6573f5905d505c9769c56ce358b780fdfb611c5
+\
+,src/main/java/exerciciosAula/Exercicio2.java,e\2\e2ab65162cde346640392b1003fa086506a5edb2
+\
+,src/main/java/exerciciosAula/Exercicio5.java,b\2\b25c389c553204e66ffb0e317d92bd036766e2fd
+\
+,src/main/java/exerciciosAula/Exercicio6.java,7\7\779f0a4cdd41aab6d9dcc0846e439c0717740783
+\
+,src/main/java/exerciciosAula/Exercicio8.java,7\3\7302c7e1f3ca19177a26ac64f0b135f00341d6b6
+\
+,src/main/java/exerciciosAula/Exercicio7.java,b\e\bea16071266a614aade6fbc6c6be838b896e7b59
