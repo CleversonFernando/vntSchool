@@ -8,16 +8,12 @@ public class Exercicio3 {
 
         Scanner sc = new Scanner(System.in);
 
-        int numero1;
-        int numero2;
-        int soma;
-
         System.out.println("Entre com o primeiro número:");
-        numero1 = sc.nextInt();
+        int numero1 = sc.nextInt();
         System.out.println("Entre com o segundo número:");
-        numero2 = sc.nextInt();
+        int numero2 = sc.nextInt();
 
-        soma = (numero1 + numero2);
+        int soma = (numero1 + numero2);
 
         System.out.printf("Entrada: %d, %d      Saída: SOMA = %d", numero1, numero2, soma);
 

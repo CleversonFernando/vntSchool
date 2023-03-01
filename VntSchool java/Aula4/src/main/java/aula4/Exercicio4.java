@@ -10,18 +10,16 @@ public class Exercicio4 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        double raio, area;
-        String unidade;
-
         System.out.println("Entre com a unidade de medida:");
-        unidade = sc.nextLine();
+        String unidade = sc.nextLine();
         System.out.println("Entre com o valor do Raio:");
-        raio = sc.nextDouble();
+        double raio = sc.nextDouble();
 
-        area = (Math.PI * Math.pow(raio, 2));
+        double area = (Math.PI * Math.pow(raio, 2));
 
         System.out.printf("Entrada: %.2f%s        Saída A=%.2f %s²\n", raio, unidade, area, unidade);
         System.out.printf("Entrada: %.2f%s        Saída A=%.4f %s²", raio, unidade, area, unidade);
+
         sc.close();
     }
 }

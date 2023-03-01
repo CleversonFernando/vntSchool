@@ -5,47 +5,42 @@ import java.util.Scanner;
 
 public class Exercicio8 {
 
-    private static double calculaTriangulo(double base, double altura) {
+    static double calculaTriangulo(double base, double altura) {
         return (base * altura) / 2;
     }
 
-    private static double calculaCirculo(double raio) {
+    static double calculaCirculo(double raio) {
         return (Math.PI * Math.pow(raio, 2));
     }
 
-    private static double calculaTrapezio(double base1, double base2, double altura) {
+    static double calculaTrapezio(double base1, double base2, double altura) {
         return ((base1 + base2) * altura) / 2;
     }
 
-    private static double calculaQuadrado(double lado) {
+    static double calculaQuadrado(double lado) {
         return lado * lado;
     }
 
-    private static double calculaRetangulo(double base, double altura) {
+    static double calculaRetangulo(double base, double altura) {
         return base * altura;
     }
-
 
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        double a, b, c;
-        double triangulo, circulo, trapezio, quadrado, retangulo;
-
-
         System.out.println("Entre com o valor de A:");
-        a = sc.nextDouble();
+        double a = sc.nextDouble();
         System.out.println("Entre com o valor de B:");
-        b = sc.nextDouble();
+        double b = sc.nextDouble();
         System.out.println("Entre com o valor de C:");
-        c = sc.nextDouble();
-        triangulo = calculaTriangulo(a, c);
-        circulo = calculaCirculo(c);
-        trapezio = calculaTrapezio(a, b, c);
-        quadrado = calculaQuadrado(b);
-        retangulo = calculaRetangulo(a, b);
+        double c = sc.nextDouble();
+        double triangulo = calculaTriangulo(a, c);
+        double circulo = calculaCirculo(c);
+        double trapezio = calculaTrapezio(a, b, c);
+        double quadrado = calculaQuadrado(b);
+        double retangulo = calculaRetangulo(a, b);
 
         System.out.printf("TRIANGULO: %.3f%n", triangulo);
         System.out.printf("CIRCULO: %.3f%n", circulo);

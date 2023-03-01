@@ -8,16 +8,12 @@ public class Exercicio1 {
 
         Scanner sc = new Scanner(System.in);
 
-        String nome;
-        int agencia;
-        int conta;
-
         System.out.println("Entre com o nome do usuário:");
-        nome = sc.nextLine();
+        String nome = sc.nextLine();
         System.out.println("Entre com o número da agência:");
-        agencia = sc.nextInt();
+        int agencia = sc.nextInt();
         System.out.println("Entre com o número da conta:");
-        conta = sc.nextInt();
+        int conta = sc.nextInt();
 
         System.out.println("Informações do usuário:");
         System.out.printf("Nome: %s Agência: %d Conta: %d", nome, agencia, conta);

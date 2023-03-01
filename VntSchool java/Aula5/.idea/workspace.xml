@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b506e5af-b039-41ea-83cf-b77f4813cf07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/f/3/f3b0379b8b3f8b545b4e1494825d60e3337f4deb" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/sonarlint/issuestore/f/3/f3b0379b8b3f8b545b4e1494825d60e3337f4deb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/main/java/aula4/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/src/main/java/aula4/Exercicio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula3",
+    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java/Aula5",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>

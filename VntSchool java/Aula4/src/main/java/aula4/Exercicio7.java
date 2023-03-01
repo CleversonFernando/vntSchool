@@ -22,7 +22,7 @@ public class Exercicio7 {
 
     }
 
-    public static double calcularTotal(int quantidade, double valorUnitario) {
+    static double calcularTotal(int quantidade, double valorUnitario) {
         return (quantidade * valorUnitario);
     }
 
@@ -32,29 +32,25 @@ public class Exercicio7 {
         List<Pedidos> list = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
 
-        int codigo;
-        int quantidade;
-        double valorUnitario;
-        double total;
         double precoFinal = 0;
 
         System.out.println("Entre com o número de peças que deseje cadastrar:");
         int contador = sc.nextInt();
         for (int i = 1; i <= contador; i++) {
             System.out.println("Entre com o código da peça: " + i);
-            codigo = sc.nextInt();
+            int codigo = sc.nextInt();
             System.out.println("Entre com o número de peças: " + i);
-            quantidade = sc.nextInt();
+            int quantidade = sc.nextInt();
             System.out.println("Entre com o valor unitário: " + i);
-            valorUnitario = sc.nextInt();
-            total = calcularTotal(quantidade, valorUnitario);
+            double valorUnitario = sc.nextInt();
+            double total = calcularTotal(quantidade, valorUnitario);
             precoFinal += total;
             Pedidos pedidos = new Pedidos(codigo, quantidade, valorUnitario);
             list.add(pedidos);
         }
         System.out.println("VALOR A PAGAR: R$ " + precoFinal);
         System.out.println();
-        System.out.print(String.valueOf(list));
+        System.out.print((list));
 
         sc.close();
     }
