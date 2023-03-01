@@ -4,9 +4,9 @@ public class Exercicio3 {
 
     public static void main(String[] args) {
 
-        double w = 4;
-        w %= 3.33;
+        double y = 5;
+        y /= 3.0;
 
-        System.out.println("O resultado da atribuição de divisão de 5 por 3 é " + w);
+        System.out.println("O resultado da atribuição de divisão de 5 por 3 é " + y);
     }
 }
