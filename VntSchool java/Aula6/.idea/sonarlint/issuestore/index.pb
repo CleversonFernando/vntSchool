@@ -13,7 +13,3 @@
 ,src/main/java/exerciciosAula/Exercicio5.java,b\2\b25c389c553204e66ffb0e317d92bd036766e2fd
 \
 ,src/main/java/exerciciosAula/Exercicio6.java,7\7\779f0a4cdd41aab6d9dcc0846e439c0717740783
-\
-,src/main/java/exerciciosAula/Exercicio8.java,7\3\7302c7e1f3ca19177a26ac64f0b135f00341d6b6
-\
-,src/main/java/exerciciosAula/Exercicio7.java,b\e\bea16071266a614aade6fbc6c6be838b896e7b59
