@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
+X
+java:S1659"BDeclare "somar" and all following declarations on a separate line.(›ç‹µ
+D
+java:S1481".Remove this unused "resultado" local variable.(›ç‹µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸†Æ´øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Ü¦óúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®óãüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç¤êõşÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í¯œş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í¯œş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÑòº
