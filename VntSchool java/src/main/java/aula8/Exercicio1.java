@@ -18,5 +18,7 @@ public class Exercicio1 {
             texto = "Impar";
         }
         System.out.println("O número é: " + texto);
+
+        sc.close();
     }
 }

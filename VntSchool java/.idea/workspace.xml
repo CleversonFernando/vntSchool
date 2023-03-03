@@ -34,13 +34,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/VntSchool java",
+    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/project/curso-mc",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio1">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio5">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula8.Exercicio1" />
       <module name="VntSchool java" />
@@ -54,12 +59,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula4.Exercicio3" />
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.Exercicio2" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula4.*" />
+          <option name="PATTERN" value="aula8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.Exercicio3" />
+      <module name="VntSchool java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.Exercicio4" />
+      <module name="VntSchool java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,37 +99,11 @@
       </method>
     </configuration>
     <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula6.Exercicio5" />
+      <option name="MAIN_CLASS_NAME" value="aula8.Exercicio5" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aula5.Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula5.Exercicio4" />
-      <module name="VntSchool java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aula7.Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.Exercicio3" />
-      <module name="VntSchool java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula7.*" />
+          <option name="PATTERN" value="aula8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.aula7.Exercicio3" />
         <item itemvalue="Application.Exercicio5" />
-        <item itemvalue="Application.aula5.Exercicio4" />
+        <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>

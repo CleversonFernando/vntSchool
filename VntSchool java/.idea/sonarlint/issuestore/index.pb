@@ -57,3 +57,11 @@ S
 #src/main/java/aula3/Exercicio2.java,b\6\b6aa5ea3de2842a1268d200944ff55bff37bf368
 S
 #src/main/java/aula8/Exercicio1.java,f\2\f2d3a1b6f320c6ebf8395430da766fc02d5647a6
+S
+#src/main/java/aula8/Exercicio2.java,8\3\8398e0193e7d61a6bcf2cfa1605e5895c0020f6d
+S
+#src/main/java/aula8/Exercicio3.java,f\a\fab0f44fdf085f925a8ca739903e5e3198f40a75
+S
+#src/main/java/aula8/Exercicio4.java,9\a\9a1dd942da4410a2753e08249365401327b578b0
+S
+#src/main/java/aula8/Exercicio5.java,8\e\8e3cb620a117a343aea811dfee05e1bcc082b068
