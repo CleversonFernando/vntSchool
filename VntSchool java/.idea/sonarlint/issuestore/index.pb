@@ -67,5 +67,3 @@ S
 #src/main/java/aula8/Exercicio5.java,8\e\8e3cb620a117a343aea811dfee05e1bcc082b068
 S
 #src/main/java/aula8/Exercicio6.java,7\5\759c1bed4f1d0e0083848a18c1ef8625b183ad5d
-S
-#src/main/java/aula8/Exercicio7.java,8\d\8db402ce3d729f05b06b27c3dd7456c785b784a6
