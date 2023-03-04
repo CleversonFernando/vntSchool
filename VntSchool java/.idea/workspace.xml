@@ -45,7 +45,20 @@
       <recent name="aula8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio13">
+  <component name="RunManager" selected="Application.Desafio1">
+    <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.Desafio1" />
+      <module name="VntSchool java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula8.Exercicio10" />
       <module name="VntSchool java" />
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula8.Exercicio9" />
-      <module name="VntSchool java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio1" />
         <item itemvalue="Application.Exercicio13" />
         <item itemvalue="Application.Exercicio12" />
         <item itemvalue="Application.Exercicio11" />
         <item itemvalue="Application.Exercicio10" />
-        <item itemvalue="Application.Exercicio9" />
       </list>
     </recent_temporary>
   </component>
