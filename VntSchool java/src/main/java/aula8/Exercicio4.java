@@ -8,14 +8,12 @@ public class Exercicio4 {
 
     static List<Double> list = new ArrayList<>();
 
-    static double calcularMedia(List<Double> list) {
+    static double calcularSoma(List<Double> list) {
         double soma = 0;
-        double media = 0;
         for (double item : list) {
             soma += item;
-            media = soma / list.size();
         }
-        return media;
+        return soma;
     }
 
     public static void main(String[] args) {
@@ -27,7 +25,9 @@ public class Exercicio4 {
             System.out.println("Entre com o valor da " + i + "ª nota:");
             list.add(sc.nextDouble());
         }
-        double media = calcularMedia(list);
+        double soma = calcularSoma(list);
+
+        double media = soma / list.size();
 
         if (media >= 7) {
             texto = "Aprovado!";

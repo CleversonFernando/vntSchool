@@ -16,8 +16,8 @@ public class Exercicio5 {
         String nome = sc.nextLine();
         System.out.println("Entre com o salário:");
         double salario = sc.nextInt();
-        double novoSalario = 0;
-        double porcentagemAumento;
+        double novoSalario;
+        double porcentagemAumento = 0;
 
         if (salario > 0) {
             if (salario <= 3000) {
@@ -39,7 +39,10 @@ public class Exercicio5 {
                 System.out.println("Não tem aumento!");
                 novoSalario = salario;
             }
+            porcentagemAumento *= 10;
+
             System.out.println(nome);
+            System.out.print("Aumento " + porcentagemAumento + "% ");
             System.out.printf("Salário antigo: %.2f Salário novo: %.2f", salario, novoSalario);
             sc.close();
         } else {

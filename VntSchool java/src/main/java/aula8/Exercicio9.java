@@ -26,9 +26,9 @@ public class Exercicio9 {
         if (primeiro != 0 && segundo != 0) {
 
             System.out.println(verificador(primeiro, segundo));
+        }else {
+            System.out.println("Valores não podem ser igual a zero!");
         }
-        System.out.println("Valores não podem ser igual a zero!");
-
         sc.close();
     }
 }

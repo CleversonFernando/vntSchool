@@ -10,22 +10,19 @@ public class Exercicio2 {
 
         System.out.println("Entre com um número: ");
         int numero = sc.nextInt();
-        String indicadorParImpar;
-        String indicadorPositivoNegativo;
+        String indicadorParImpar = "";
 
-        if (numero % 2 == 0) {
-            indicadorParImpar = "Par";
+        //recebe número positivo e classifica em par ou impar
+        if (numero > 0) {
+            if (numero % 2 == 0) {
+                indicadorParImpar = "Par";
+            } else {
+                indicadorParImpar = "Impar";
+            }
+            System.out.println("O número é: " + indicadorParImpar);
         } else {
-            indicadorParImpar = "Impar";
+            System.out.println("Número deve ser positivo!");
         }
-        if (numero < 0) {
-            indicadorPositivoNegativo = "Negativo";
-        } else if (numero > 0) {
-            indicadorPositivoNegativo = "Positivo";
-        } else {
-            indicadorPositivoNegativo = "igual a zero";
-        }
-        System.out.println("O número é: " + indicadorParImpar + " e " + indicadorPositivoNegativo);
 
         sc.close();
     }
