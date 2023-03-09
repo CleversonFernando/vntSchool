@@ -83,7 +83,3 @@ S
 #src/main/java/aula8/Exercicio9.java,b\b\bba37664d3d234b9f6072e8115becda8cfeb9a2c
 T
 $src/main/java/aula8/Exercicio11.java,4\d\4d7e7579bffcb457223d0cf467e4c8b7e94103d3
-T
-$src/main/java/aula11/Exercicio1.java,d\1\d1b7f1bd602c0ae55ea0e42c0800f58c855f596e
-T
-$src/main/java/aula11/Exercicio2.java,8\d\8d75146701ddd20e32bd7bce5cfd442473ada7a8
