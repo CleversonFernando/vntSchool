@@ -46,36 +46,11 @@
       <recent name="aula9" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula10" />
       <recent name="aula8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio3">
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula9.Exercicio1" />
-      <module name="VntSchool java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula9.Exercicio2" />
-      <module name="VntSchool java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.aula10.Exercicio3">
     <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula9.Exercicio3" />
       <module name="VntSchool java" />
@@ -89,12 +64,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula11.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula11.Exercicio1" />
+    <configuration name="aula10.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio1" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula11.*" />
+          <option name="PATTERN" value="aula10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula10.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio2" />
+      <module name="VntSchool java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula10.Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio3" />
+      <module name="VntSchool java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aula10.Exercicio3" />
+        <item itemvalue="Application.aula10.Exercicio2" />
+        <item itemvalue="Application.aula10.Exercicio1" />
         <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.aula11.Exercicio2" />
-        <item itemvalue="Application.aula11.Exercicio1" />
-        <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
