@@ -74,8 +74,6 @@ Q
 S
 #src/main/java/aula8/Exercicio2.java,8\3\8398e0193e7d61a6bcf2cfa1605e5895c0020f6d
 S
-#src/main/java/aula9/Exercicio1.java,7\b\7b93440057b50b399dcd69a3b198807728ad53dd
-S
 #src/main/java/aula8/Exercicio4.java,9\a\9a1dd942da4410a2753e08249365401327b578b0
 S
 #src/main/java/aula8/Exercicio5.java,8\e\8e3cb620a117a343aea811dfee05e1bcc082b068
@@ -85,3 +83,7 @@ S
 #src/main/java/aula8/Exercicio9.java,b\b\bba37664d3d234b9f6072e8115becda8cfeb9a2c
 T
 $src/main/java/aula8/Exercicio11.java,4\d\4d7e7579bffcb457223d0cf467e4c8b7e94103d3
+T
+$src/main/java/aula11/Exercicio1.java,d\1\d1b7f1bd602c0ae55ea0e42c0800f58c855f596e
+T
+$src/main/java/aula11/Exercicio2.java,8\d\8d75146701ddd20e32bd7bce5cfd442473ada7a8
