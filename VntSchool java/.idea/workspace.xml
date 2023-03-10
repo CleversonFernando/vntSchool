@@ -50,7 +50,7 @@
       <recent name="aula8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio5">
+  <component name="RunManager" selected="Application.Exercicio8">
     <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula10.Exercicio4" />
       <module name="VntSchool java" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula10.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio1" />
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio6" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula10.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio2" />
+    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio7" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula10.Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio3" />
+    <configuration name="Exercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio8" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio8" />
+        <item itemvalue="Application.Exercicio7" />
+        <item itemvalue="Application.Exercicio6" />
         <item itemvalue="Application.Exercicio5" />
         <item itemvalue="Application.Exercicio4" />
-        <item itemvalue="Application.aula10.Exercicio3" />
-        <item itemvalue="Application.aula10.Exercicio2" />
-        <item itemvalue="Application.aula10.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +160,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/aula9/Exercicio3.java</url>
           <line>43</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aula10/Exercicio8.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aula10/Exercicio8.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aula10/Exercicio8.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.UnknownFormatConversionException" package="java.util" />
