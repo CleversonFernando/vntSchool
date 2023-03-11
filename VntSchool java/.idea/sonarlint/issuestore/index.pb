@@ -101,7 +101,3 @@ T
 $src/main/java/aula10/Exercicio5.java,e\f\ef0450f690f94f58f54392863b2e37f0adb216c8
 T
 $src/main/java/aula10/Exercicio6.java,4\1\41998402911c20fae623c97e00475f801a0ec143
-T
-$src/main/java/aula10/Exercicio7.java,d\6\d6297ad687ba394ad533210a57146e0943f3d591
-T
-$src/main/java/aula10/Exercicio8.java,d\5\d541099224c21acb71d4fb496e565c101ae40fec
