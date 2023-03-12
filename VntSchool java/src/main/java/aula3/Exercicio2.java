@@ -29,9 +29,5 @@ public class Exercicio2 {
         System.out.printf("Resultado divisão: %.3f\n",  dividir);
         System.out.println("Resultado multioplicação:" + multiplicar);
 
-
-
-
-
     }
 }

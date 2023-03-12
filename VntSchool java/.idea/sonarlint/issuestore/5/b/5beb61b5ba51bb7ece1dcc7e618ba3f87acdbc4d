@@ -1,15 +1,7 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(–ö´´ÿÿÿÿÿ
 W
 java:S3457"AFormat specifiers should be used instead of string concatenation.(ñÁğı
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ñÁğı
 \
 java:S3457"AFormat specifiers should be used instead of string concatenation.(¬öÛ¤ıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¬öÛ¤ıÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(í–è¼
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
 l
 java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÌÈûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÈûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¸›†
