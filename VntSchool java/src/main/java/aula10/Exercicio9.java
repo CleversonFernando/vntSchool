@@ -17,7 +17,7 @@ public class Exercicio9 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        boolean aprovador = true;
+        boolean aprovador;
         do {
             System.out.println("Entre com o peso em gramas:");
             double gramas = sc.nextInt();

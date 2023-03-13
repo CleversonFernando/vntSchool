@@ -50,7 +50,7 @@
       <recent name="aula8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Desafio1">
+  <component name="RunManager" selected="Application.Exercicio9">
     <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula10.Desafio1" />
       <module name="VntSchool java" />
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio6" />
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula12.Exercicio1" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula10.*" />
+          <option name="PATTERN" value="aula12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Desafio1" />
         <item itemvalue="Application.Exercicio9" />
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.Desafio1" />
         <item itemvalue="Application.Exercicio8" />
         <item itemvalue="Application.Exercicio7" />
-        <item itemvalue="Application.Exercicio6" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +165,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/aula10/Exercicio9.java</url>
           <line>9</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aula12/Exercicio1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.UnknownFormatConversionException" package="java.util" />
