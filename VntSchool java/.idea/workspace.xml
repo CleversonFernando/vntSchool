@@ -46,11 +46,12 @@
       <recent name="aula9" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula12" />
       <recent name="aula10" />
       <recent name="aula8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio9">
+  <component name="RunManager" selected="Application.Exercicio4">
     <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula10.Desafio1" />
       <module name="VntSchool java" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio7" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula12.Exercicio3" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula10.*" />
+          <option name="PATTERN" value="aula12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula10.Exercicio8" />
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula12.Exercicio4" />
       <module name="VntSchool java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula10.*" />
+          <option name="PATTERN" value="aula12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.Exercicio9" />
         <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Desafio1" />
-        <item itemvalue="Application.Exercicio8" />
-        <item itemvalue="Application.Exercicio7" />
       </list>
     </recent_temporary>
   </component>
@@ -160,16 +161,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/aula9/Exercicio3.java</url>
           <line>43</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/aula10/Exercicio9.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/aula12/Exercicio1.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.UnknownFormatConversionException" package="java.util" />
