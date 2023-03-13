@@ -12,7 +12,7 @@ public class Exercicio7 {
         Random random = new Random();
         int numeroAleatorio = random.nextInt(100);
         boolean confirma = true;
-        System.out.println(numeroAleatorio);
+
         do {
             System.out.println("Entre com um número:");
             int numero = sc.nextInt();

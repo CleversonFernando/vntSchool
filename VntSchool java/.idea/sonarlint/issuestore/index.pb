@@ -123,7 +123,3 @@ T
 $src/main/java/aula12/Exercicio3.java,f\e\fec353988b958df2a89145b1a26784efdba0b7a3
 T
 $src/main/java/aula12/Exercicio5.java,c\f\cf33de5dab5615699e0aa7c3de1ebe8d60b5e0f6
-T
-$src/main/java/aula12/Exercicio6.java,1\e\1e3251e347a0abf12e8186cfb4eccb132ee8d1cd
-T
-$src/main/java/aula12/Exercicio7.java,f\d\fdbc9a2c541afc3d65c781033ad976a0f7cf0738
