@@ -35,7 +35,7 @@ public class Exercicio3 {
         int opcao;
 
         do {
-            boolean preenchimentoCorreto = false;
+            boolean preenchimentoIncorreto = false;
             do {
                 System.out.println("Entre com as informações da pessoa:");
                 System.out.println("Sexo feminino [1] Sexo masculino [0]");
@@ -43,20 +43,20 @@ public class Exercicio3 {
                 sexos.add(sexo);
                 if (sexo != 0 && sexo != 1) {
                     System.out.println("Por favor digite uma opção válida!");
-                    preenchimentoCorreto = true;
+                    preenchimentoIncorreto = true;
                 } else {
                     System.out.println("Altura:");
                     double altura = sc.nextDouble();
                     if (altura <= 0) {
                         System.out.println("Altura não pode ser menor ou igual a zero!");
-                        preenchimentoCorreto = true;
+                        preenchimentoIncorreto = true;
                     } else {
                         alturas.add(altura);
-                        preenchimentoCorreto = false;
+                        preenchimentoIncorreto = false;
                     }
                 }
             }
-            while (preenchimentoCorreto);
+            while (preenchimentoIncorreto);
             System.out.println("Deseja adicionar mais pessoas? [SIM = 1]/[NAO = 0]");
             opcao = sc.nextInt();
             if (opcao != 0 && opcao != 1) {
