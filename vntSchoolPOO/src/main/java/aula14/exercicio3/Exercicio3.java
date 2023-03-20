@@ -5,13 +5,16 @@ public class Exercicio3 {
     public static void main(String[] args) {
 
         int anoInicio = 2016;
+        int anoLimite = 2022;
 
-        Salario salario = new Salario();
-        salario.percentual = 0.015;
-        salario.salario = 2000.0;
+        Salario funcionario1 = new Salario();
+        funcionario1.percentual = 0.015;
+        funcionario1.salario = 2000.00;
 
-        for (int i = (anoInicio+1); i <= 2022; i++) {
-            System.out.printf("Salario no ano de %d %.2f %n", i, salario.calcularAumento());
+        System.out.printf("Salario no ano de %d %.2f %n", anoInicio, funcionario1.salario);
+
+        for (int i = (anoInicio+1); i <= anoLimite; i++) {
+            System.out.printf("Salario no ano de %d %.2f %n", i, funcionario1.calcularAumento());
         }
     }
 }

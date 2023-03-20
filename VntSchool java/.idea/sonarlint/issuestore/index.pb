@@ -30,8 +30,6 @@ $src/main/java/aula10/Exercicio1.java,d\0\d090ef96afc02f0bc0c0a66f5aa177881fa08
 T
 $src/main/java/aula10/Exercicio2.java,4\6\463678176ebb61e105fa4e6996aff8cf9ec8a88c
 T
-$src/main/java/aula10/Exercicio3.java,9\f\9fda0c64ce53e4636e616f5a91eff4f1a28baaf6
-T
 $src/main/java/aula10/Exercicio4.java,1\e\1e91b3db977bbf04610be74a4dd94112b2a75747
 T
 $src/main/java/aula10/Exercicio5.java,e\f\ef0450f690f94f58f54392863b2e37f0adb216c8

@@ -11,7 +11,3 @@ _
 /src/main/java/aula14/exercicio2/Exercicio2.java,5\c\5c6fa24730c6cd80241bd99f205d98b42ccdb637
 ^
 .src/main/java/aula14/exercicio2/Conversor.java,d\1\d16fee484cce8551d5c59288df88d73332c23c3c
-\
-,src/main/java/aula14/exercicio3/Salario.java,0\b\0b2feeedeae41ff7f8d71e7f7998b79fe1efcc76
-_
-/src/main/java/aula14/exercicio3/Exercicio3.java,5\d\5d177ff172a09a08de6c2e6ed3924936d0fe72c0
