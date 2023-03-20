@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe7cfa4-66f4-4949-93ad-de04d38c7320" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../VntSchool java/.idea/sonarlint/issuestore/9/f/9fda0c64ce53e4636e616f5a91eff4f1a28baaf6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VntSchool java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../VntSchool java/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VntSchool java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VntSchool java/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9fe7cfa4-66f4-4949-93ad-de04d38c7320" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
       <recent name="aula15.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio4">
+  <component name="RunManager" selected="Application.Exercicio5">
     <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula14.exercicio2.Exercicio2" />
       <module name="vntSchoolPOO" />
@@ -87,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula14.exercicio1.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio1.Exercicio1" />
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio5.Exercicio5" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula14.exercicio1.*" />
+          <option name="PATTERN" value="aula14.exercicio5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio5" />
         <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.aula15.exercicio1.Exercicio1" />
         <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.aula14.exercicio1.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
