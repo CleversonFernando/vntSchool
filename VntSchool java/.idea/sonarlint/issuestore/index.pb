@@ -37,3 +37,7 @@ T
 $src/main/java/aula10/Exercicio6.java,4\1\41998402911c20fae623c97e00475f801a0ec143
 T
 $src/main/java/aula10/Exercicio7.java,d\6\d6297ad687ba394ad533210a57146e0943f3d591
+T
+$src/main/java/aula10/Exercicio3.java,9\f\9fda0c64ce53e4636e616f5a91eff4f1a28baaf6
+T
+$src/main/java/aula10/Exercicio9.java,4\8\48f66ffb059b7c6588a3eb4eee7d9864420f830c

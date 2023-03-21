@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2de7ca-44d3-4a68-a624-14175a3bdfe4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/.idea/sonarlint/issuestore/0/b/0b2feeedeae41ff7f8d71e7f7998b79fe1efcc76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/.idea/sonarlint/issuestore/5/d/5d177ff172a09a08de6c2e6ed3924936d0fe72c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../vntSchoolPOO/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vntSchoolPOO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/src/main/java/aula14/exercicio3/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vntSchoolPOO/src/main/java/aula14/exercicio3/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vntSchoolPOO/src/main/java/aula14/exercicio3/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vntSchoolPOO/src/main/java/aula14/exercicio3/Salario.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec2de7ca-44d3-4a68-a624-14175a3bdfe4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +22,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchoolPOO",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchoolPOO&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Exercicio9">
     <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula9.Exercicio3" />
