@@ -26,8 +26,6 @@ _
 ^
 .src/main/java/aula14/exercicio5/Retangulo.java,7\3\73c919a440b084a3e6d0a1147831cbc3630180cd
 _
-/src/main/java/aula16/exercicio1/Exercicio1.java,6\9\69fdcf670ebf6354c09838967a74e993c396311d
-_
 /src/main/java/aula17/exercicio1/Exercicio1.java,0\a\0a64a490db11d6d518d13cbdc8622a2a9284a8bd
 Z
 *src/main/java/aula17/exercicio1/Motor.java,0\a\0a51d19b53ac45b84f4fc904ea67dfd7de57421d
@@ -39,7 +37,5 @@ _
 0src/main/java/aula14/exercicio6/Funcionario.java,1\4\14f2a2136a51a815a1783d093c1403277092af43
 _
 /src/main/java/aula14/exercicio6/Exercicio1.java,8\2\8259b0b0bc450295f64f93e4b536af83e0808619
-_
-/src/main/java/aula14/exercicio7/Exercicio7.java,6\4\6464b173b8f63802760b2965ac12b0f9ecce92a1
 ^
 .src/main/java/aula14/exercicio7/Estudante.java,c\a\cac1544e041f58e79e9043c68695238db11c66dd
