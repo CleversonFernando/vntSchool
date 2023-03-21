@@ -6,14 +6,14 @@ import java.util.Scanner;
 
 public class Exercicio3 {
 
-    static List<Integer> list = new ArrayList<>();
-
-    private static void calcularDivisores(int numero) {
+    static List<Integer> calcularDivisores(int numero) {
+        List<Integer> list = new ArrayList<>();
         for (int i = numero; i > 0; i--) {
             if (numero % i == 0) {
                 list.add(i);
             }
         }
+        return list;
     }
 
     public static void main(String[] args) {
@@ -22,11 +22,10 @@ public class Exercicio3 {
 
         System.out.println("entre com o número: ");
         int numero = sc.nextInt();
-        calcularDivisores(numero);
         if (numero <= 0) {
             System.out.println("Entre com valores inteiros e maiores que zero!");
         } else {
-            System.out.println("Os divisores são: " + list.toString());
+            System.out.println("Os divisores são: " + calcularDivisores(numero));
         }
         sc.close();
     }

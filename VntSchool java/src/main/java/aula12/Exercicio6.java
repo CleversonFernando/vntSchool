@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Exercicio6 {
 
-    private static int[] ordenaVetor(int[] vetor) {
+    private static void ordenaVetor(int[] vetor) {
         int aux;
         for (int i = 1; i < vetor.length; i++) {
             for (int j = 0; j < i; j++) {
@@ -16,7 +16,6 @@ public class Exercicio6 {
                 }
             }
         }
-        return vetor;
     }
 
     public static void main(String[] args) {
@@ -28,7 +27,9 @@ public class Exercicio6 {
             System.out.println("Entre com o " + (i + 1) + "º número:");
             vetor[i] = sc.nextInt();
         }
-        System.out.println(Arrays.toString(ordenaVetor(vetor)));
+        ordenaVetor(vetor);
+
+        System.out.println(Arrays.toString(vetor));
         sc.close();
     }
 }

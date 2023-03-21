@@ -29,13 +29,8 @@ public class Desafio1 {
             int candidatoEscolhido = sc.nextInt();
             if (candidatoEscolhido >= 1 && candidatoEscolhido <= 5) {
 
-                switch (candidatoEscolhido) {
-                    case 1 -> contadorDeVotos.set(0, contadorDeVotos.get(0) + 1);
-                    case 2 -> contadorDeVotos.set(1, contadorDeVotos.get(1) + 1);
-                    case 3 -> contadorDeVotos.set(2, contadorDeVotos.get(2) + 1);
-                    case 4 -> contadorDeVotos.set(3, contadorDeVotos.get(3) + 1);
-                    case 5 -> contadorDeVotos.set(4, contadorDeVotos.get(4) + 1);
-                }
+                contadorDeVotos.set((candidatoEscolhido - 1), contadorDeVotos.get(candidatoEscolhido - 1) + 1);
+
                 valorTotalDeVotos = valorTotalDeVotos + 1;
             } else {
                 System.out.println("Voto inválido!");
@@ -48,14 +43,16 @@ public class Desafio1 {
         } while (confirma == 1);
 
         System.out.println("Vencedores:");
+
         checarVencedor(contadorDeVotos, candidatos);
-        System.out.println("Candidato [1] " + candidatos.get(0) + " total de votos " + contadorDeVotos.get(0));
-        System.out.println("Candidato [2] " + candidatos.get(1) + " total de votos " + contadorDeVotos.get(1));
-        System.out.println("Candidato [3] " + candidatos.get(2) + " total de votos " + contadorDeVotos.get(2));
-        System.out.println("Candidato [4] " + candidatos.get(3) + " total de votos " + contadorDeVotos.get(3));
-        System.out.println("Candidato [5] " + candidatos.get(4) + " total de votos " + contadorDeVotos.get(4));
+        for (
+                int i = 0; i < candidatos.size(); i++) {
+            System.out.println("Candidato [" + (i + 1) + "] " + candidatos.get(i) + " total de votos " + contadorDeVotos.get(i));
+        }
         System.out.println("Valor total de votos " + valorTotalDeVotos);
+
         sc.close();
+
     }
 
     private static void checarVencedor(List<Integer> contadorDeVotos, List<String> candidatos) {

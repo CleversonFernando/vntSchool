@@ -4,10 +4,9 @@ import java.util.*;
 
 public class Exercicio8 {
 
-    static Set<Integer> set = new TreeSet<>();
-
     public static void main(String[] args) {
 
+        Set<Integer> set = new TreeSet<>();
         Scanner sc = new Scanner(System.in);
 
         Random random = new Random();

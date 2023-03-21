@@ -6,55 +6,51 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Exercicio8 {
-    static List<String> alunos = new ArrayList<>();
-    static List<Double> notas = new ArrayList<>();
-    static List<Double> medias = new ArrayList<>();
 
-    private static double calcularMedias(List<Double> list) {
-        IntSummaryStatistics total = new IntSummaryStatistics();
-        for (Double item : list) {
-            total.accept(item.intValue());
-        }
-        list.clear();
-        return total.getAverage();
+    private static double calcularMedias(double nota1, double nota2) {
+        return (nota1 + nota2) / 2;
+
     }
 
     public static void main(String[] args) {
 
+        List<String> alunos = new ArrayList<>();
+        List<Double> medias = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Entre o número de alunos que deseje cadastrar:");
         int numeroAlunos = sc.nextInt();
+        double mediaGeral = 0;
 
         do {
             System.out.println("entre com o nome do aluno:");
-            sc.nextLine();
-            String nome = sc.nextLine();
-            alunos.add(nome);
+            alunos.add(sc.next());
 
-            for (int i = 0; i < 3; i++) {
-                System.out.println("entre com a " + (i + 1) + "ª nota do aluno:");
-                double nota = sc.nextDouble();
-                if (nota < 0) {
-                    System.out.println("Valores de notas não podem ser menores que zero!");
-                } else {
-                    notas.add(nota);
-                }
+            System.out.println("entre com a 1ª nota do aluno:");
+            double nota1 = sc.nextDouble();
+            System.out.println("entre com a 2ª nota do aluno:");
+            double nota2 = sc.nextDouble();
+            if (nota1 < 0 && nota2 < 0) {
+                System.out.println("Valores de notas não podem ser menores que zero!");
+            } else {
+                medias.add(calcularMedias(nota1, nota2));
             }
-            medias.add(calcularMedias(notas));
-
             numeroAlunos--;
-        }
-        while (numeroAlunos > 0);
+        } while (numeroAlunos > 0);
 
-        for (int i = 0; i < medias.size(); i++) {
+        for (
+                int i = 0; i < medias.size(); i++) {
             if (medias.get(i) < 6) {
                 System.out.println("Aluno " + alunos.get(i) + " Reprovado!");
             } else {
                 System.out.println("Aluno " + alunos.get(i) + " Aprovado!");
             }
         }
-        System.out.println("Média geral " + calcularMedias(medias));
+        for (double item : medias) {
+            mediaGeral = mediaGeral + item;
+        }
+        mediaGeral = mediaGeral / medias.size();
+        System.out.printf("Média geral %.2f", mediaGeral);
 
         sc.close();
     }

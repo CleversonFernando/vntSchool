@@ -13,19 +13,18 @@ public class Exercicio7 {
         System.out.printf("Salário em %d R$ %.2f%n", ano, salario);
         double porcentagemInicial = 0.015;
 
+        salario = salario + salario * porcentagemInicial;
+        System.out.printf("Salário em %d R$ %.2f%n ", (ano+1), salario);
+
         do {
             ano++;
-            if (ano == 2011) {
-                salario = salario + salario * porcentagemInicial;
-                System.out.printf("Salário em %d R$ %.2f%n ", ano, salario);
-            } else {
-                porcentagemInicial *= 2;
-                salario = salario + salario * (porcentagemInicial);
-                System.out.printf("Salário em %d R$ %.2f%n", ano, salario);
-            }
+            porcentagemInicial *= 2;
+            salario = salario + salario * (porcentagemInicial);
+            System.out.printf("Salário em %d R$ %.2f%n", ano, salario);
         } while (ano < 2022);
 
         sc.close();
     }
 }
+
 

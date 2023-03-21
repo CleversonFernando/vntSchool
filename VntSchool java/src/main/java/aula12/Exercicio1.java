@@ -1,9 +1,6 @@
 package aula12;
 
-import java.util.ArrayList;
-import java.util.IntSummaryStatistics;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Exercicio1 {
 
@@ -11,9 +8,9 @@ public class Exercicio1 {
     static List<Double> medias = new ArrayList<>();
 
     private static double calcularMediasGeral(List<Double> medias) {
-        IntSummaryStatistics total = new IntSummaryStatistics();
+        DoubleSummaryStatistics total = new DoubleSummaryStatistics();
         for (Double item : medias) {
-            total.accept(item.intValue());
+            total.accept(item.doubleValue());
         }
         return total.getAverage();
     }
