@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchool java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchool java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="aula14.exercicio4" />
@@ -46,13 +46,13 @@
       <recent name="aula16.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio4">
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio1.Exercicio1" />
+  <component name="RunManager" selected="Application.Exercicio2">
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula16.exercicio2.Exercicio2" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula14.exercicio1.*" />
+          <option name="PATTERN" value="aula16.exercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula13.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula13.Exercicio1" />
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio5.Exercicio5" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula13.*" />
+          <option name="PATTERN" value="aula14.exercicio5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula14.exercicio2.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio2.Exercicio2" />
+    <configuration name="aula14.exercicio6.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio6.Exercicio1" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula14.exercicio2.*" />
+          <option name="PATTERN" value="aula14.exercicio6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.aula14.exercicio6.Exercicio1" />
+        <item itemvalue="Application.Exercicio5" />
         <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio3" />
-        <item itemvalue="Application.aula14.exercicio2.Exercicio2" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.aula13.Exercicio1" />
       </list>
     </recent_temporary>
   </component>

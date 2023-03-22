@@ -1,6 +1,5 @@
 package aula14.exercicio5;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Exercicio5 {
@@ -10,21 +9,21 @@ public class Exercicio5 {
         Scanner sc = new Scanner(System.in);
         Retangulo retangulo = new Retangulo();
 
-        boolean valoresOk;
+        boolean valoresCorretos;
 
         do {
-            try {
-                System.out.println("Entre com o valor da altura:");
-                retangulo.setAltura(sc.nextDouble());
-                System.out.println("Entre com o valor da largura:");
-                retangulo.setLargura(sc.nextDouble());
-                valoresOk = false;
-            } catch (InputMismatchException e) {
+            System.out.println("Entre com o valor da altura:");
+            retangulo.setAltura(sc.nextDouble());
+            System.out.println("Entre com o valor da largura:");
+            retangulo.setLargura(sc.nextDouble());
+            if (retangulo.getAltura() <= 0 || retangulo.getLargura() <= 0) {
                 System.out.println("Favor inserir valores válidos!");
-                valoresOk = true;
-                sc.next();
+                valoresCorretos = false;
+            } else {
+                valoresCorretos = true;
             }
-        } while (valoresOk);
+        } while (!valoresCorretos);
+
         System.out.printf("Area %.2f%n", retangulo.calcularArea());
         System.out.printf("Perímetro %.2f%n", retangulo.calcularPerimetro());
         System.out.printf("Diagonal %.2f%n ", retangulo.calcularDiagonal());
