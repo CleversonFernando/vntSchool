@@ -1,33 +1,32 @@
 package aula16.exercicio1;
 
-import java.util.Scanner;
 
 public class Exercicio1 {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-        ContaBanco novaConta;
-        int escolha;
+        ContaBanco conta1 = new ContaBanco();
+        ContaBanco conta2 = new ContaBanco();
 
-        do {
-            System.out.println("Que tipo de conta deseja abrir? [1]-Conta Corrente [0]-Conta Poupança");
-            escolha = sc.nextInt();
-        } while ((escolha != 1) && (escolha != 0));
+        conta1.setTipo("CC");
+        conta1.setNumeroDaConta(0001);
+        conta1.setDono("João da Silva");
+        conta1.abrirConta();
 
-        System.out.println("Entre com o nome do cliente:");
-        String nome = sc.next();
+        conta1.depositar(300);
+        conta1.fecharConta();
+        conta1.sacar(338);
+        conta1.fecharConta();
+        System.out.println();
 
-        if (escolha == 1) {
-            novaConta = new ContaCorrente(nome);
-            novaConta.abrirConta();
-        } else {
-            novaConta = new ContaPoupanca(nome);
-            novaConta.abrirConta();
-        }
+        conta2.setTipo("CP");
+        conta2.setNumeroDaConta(0002);
+        conta2.setDono("Maria Silva");
+        conta2.abrirConta();
 
-        novaConta.mostrarConta();
-
-        sc.close();
+        conta2.depositar(400);
+        conta2.fecharConta();
+        conta2.sacar(530);
+        conta2.fecharConta();
     }
 }
