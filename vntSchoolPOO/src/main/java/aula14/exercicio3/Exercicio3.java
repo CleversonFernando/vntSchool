@@ -11,10 +11,10 @@ public class Exercicio3 {
         funcionario1.percentual = 0.015;
         funcionario1.salario = 2000.00;
 
-        System.out.printf("Salario no ano de %d %.2f %n", anoInicio, funcionario1.salario);
+        funcionario1.imprimirSalario(anoInicio, funcionario1.salario);
 
-        for (int i = (anoInicio+1); i <= anoLimite; i++) {
-            System.out.printf("Salario no ano de %d %.2f %n", i, funcionario1.calcularAumento());
+        for (int i = (anoInicio + 1); i <= anoLimite; i++) {
+            funcionario1.imprimirSalario(i, funcionario1.calcularAumento());
         }
     }
 }

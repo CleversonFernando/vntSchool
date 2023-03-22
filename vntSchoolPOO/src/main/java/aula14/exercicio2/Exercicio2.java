@@ -7,7 +7,7 @@ public class Exercicio2 {
         Conversor conversor = new Conversor();
         conversor.precoDolar = 5;
         conversor.IOF = 0.06;
-        conversor.reais = 100.0;
-        System.out.printf("Valor total em reais: R$%.2f ",conversor.conversorDolar());
+        conversor.valorEmDolarDesejado = 100.0;
+        System.out.printf("Valor total a pagar em reais: R$%.2f ",conversor.conversorDolar());
     }
 }

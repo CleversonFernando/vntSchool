@@ -46,13 +46,13 @@
       <recent name="aula16.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aula16.exercicio1.Exercicio1">
+  <component name="RunManager" selected="Application.Exercicio4">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula17.exercicio1.Exercicio1" />
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio1.Exercicio1" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula17.exercicio1.*" />
+          <option name="PATTERN" value="aula14.exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula15.exercicio2.Exercicio2" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio3.Exercicio3" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula15.exercicio2.*" />
+          <option name="PATTERN" value="aula14.exercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio7.Exercicio7" />
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio4.Exercicio4" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula14.exercicio7.*" />
+          <option name="PATTERN" value="aula14.exercicio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula14.exercicio6.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio6.Exercicio1" />
+    <configuration name="aula13.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula13.Exercicio1" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula14.exercicio6.*" />
+          <option name="PATTERN" value="aula13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula16.exercicio1.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula16.exercicio1.Exercicio1" />
+    <configuration name="aula14.exercicio2.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula14.exercicio2.Exercicio2" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula16.exercicio1.*" />
+          <option name="PATTERN" value="aula14.exercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aula16.exercicio1.Exercicio1" />
-        <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.Exercicio7" />
-        <item itemvalue="Application.aula14.exercicio6.Exercicio1" />
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.aula14.exercicio2.Exercicio2" />
         <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.aula13.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -143,17 +143,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/aula16/exercicio1/ContaBanco.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

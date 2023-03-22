@@ -20,8 +20,10 @@ public class Exercicio1 {
         System.out.println("Triangulo Y " + resultadoY);
         if (resultadoX > resultadoY) {
             maior = "Maior Area é a do Triangulo X";
-        } else {
+        } else if (resultadoX < resultadoY) {
             maior = "Maior Area é a do Triangulo y";
+        } else {
+            maior = "Area dos dois são iguais!";
         }
         System.out.println(maior);
     }

@@ -5,6 +5,7 @@ public class Carro {
     String cor;
     String modelo;
     double velocidade;
+
     void acelerar() {
         if (velocidade < 40) {
             velocidade = velocidade + 10;
@@ -13,18 +14,13 @@ public class Carro {
         } else if (velocidade <= 60) {
             velocidade = velocidade + 5;
             System.out.println("Acelerando!");
-
-        } else {
-            velocidade = velocidade + 0;
         }
     }
+
     void frear() {
         if (velocidade > 70) {
             velocidade = velocidade - 10;
             System.out.println("Freando!");
-
-        } else {
-            velocidade = velocidade + 0;
         }
     }
 
