@@ -7,8 +7,6 @@ _
 /src/main/java/aula17/exercicio1/Exercicio1.java,0\a\0a64a490db11d6d518d13cbdc8622a2a9284a8bd
 Z
 *src/main/java/aula17/exercicio1/Motor.java,0\a\0a51d19b53ac45b84f4fc904ea67dfd7de57421d
-e
-5src/main/java/aula17/exercicio1/ControladorCarro.java,1\c\1c5bd7cdba2a36d9a88477caa3b5fd534c67f04f
 ^
 .src/main/java/aula14/exercicio7/Estudante.java,c\a\cac1544e041f58e79e9043c68695238db11c66dd
 _
@@ -49,7 +47,3 @@ _
 /src/main/java/aula16/exercicio1/ContaBanco.java,2\e\2e4db49b54c2982b8517749f7a1fbae5e3bc10d9
 _
 /src/main/java/aula16/exercicio1/Exercicio1.java,6\9\69fdcf670ebf6354c09838967a74e993c396311d
-Z
-*src/main/java/aula16/exercicio2/Carro.java,b\a\ba3c09e7c82bcbdbf06f6dea15b5cf9c7a541e70
-_
-/src/main/java/aula16/exercicio2/Exercicio2.java,8\d\8db28c0c04eee3c5977456563c7710c4c1a20d70

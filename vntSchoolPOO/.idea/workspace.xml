@@ -46,39 +46,13 @@
       <recent name="aula16.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio2">
+  <component name="RunManager" selected="Application.aula16.exercicio4.Exercicio4">
     <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula16.exercicio2.Exercicio2" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aula16.exercicio2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio3.Exercicio3" />
-      <module name="vntSchoolPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula14.exercicio3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula14.exercicio4.Exercicio4" />
-      <module name="vntSchoolPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula14.exercicio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +86,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aula16.exercicio3.Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula16.exercicio3.Exercicio3" />
+      <module name="vntSchoolPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula16.exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula16.exercicio4.Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula16.exercicio4.Exercicio4" />
+      <module name="vntSchoolPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula16.exercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aula16.exercicio4.Exercicio4" />
+        <item itemvalue="Application.aula16.exercicio3.Exercicio3" />
         <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.aula14.exercicio6.Exercicio1" />
         <item itemvalue="Application.Exercicio5" />
-        <item itemvalue="Application.Exercicio4" />
-        <item itemvalue="Application.Exercicio3" />
       </list>
     </recent_temporary>
   </component>
