@@ -47,3 +47,17 @@ _
 /src/main/java/aula16/exercicio1/ContaBanco.java,2\e\2e4db49b54c2982b8517749f7a1fbae5e3bc10d9
 _
 /src/main/java/aula16/exercicio1/Exercicio1.java,6\9\69fdcf670ebf6354c09838967a74e993c396311d
+Z
+*src/main/java/aula16/exercicio2/Carro.java,b\a\ba3c09e7c82bcbdbf06f6dea15b5cf9c7a541e70
+_
+/src/main/java/aula16/exercicio2/Exercicio2.java,8\d\8db28c0c04eee3c5977456563c7710c4c1a20d70
+e
+5src/main/java/aula17/exercicio1/ControladorCarro.java,1\c\1c5bd7cdba2a36d9a88477caa3b5fd534c67f04f
+g
+7src/main/java/aula16/exercicio3/OperacaoMatematica.java,e\1\e1180ca039136560a10e1ad8c3b716ae6ab97b24
+_
+/src/main/java/aula16/exercicio3/Exercicio3.java,d\d\ddd5111e77066a146d1d51b376edd1d2c9b739f5
+\
+,src/main/java/aula16/exercicio4/Produto.java,b\4\b40ddf62fd16d4e6ee1b28138d785fa473ca7215
+_
+/src/main/java/aula16/exercicio4/Exercicio4.java,4\a\4a755027c6c0c70d7e54770d64f0c3fa2e5678f1
