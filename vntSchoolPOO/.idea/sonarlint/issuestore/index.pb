@@ -61,3 +61,15 @@ _
 ,src/main/java/aula16/exercicio4/Produto.java,b\4\b40ddf62fd16d4e6ee1b28138d785fa473ca7215
 _
 /src/main/java/aula16/exercicio4/Exercicio4.java,4\a\4a755027c6c0c70d7e54770d64f0c3fa2e5678f1
+_
+/src/main/java/aula19/exercicio1/Exercicio1.java,5\e\5ee789595e8e6a08e97c683f3fd0f049d2e49283
+`
+0src/main/java/aula19/exercicio1/Funcionario.java,c\6\c612d0124ea7d0f2985d613809aa0713d63fe2e6
+\
+,src/main/java/aula19/exercicio1/Gerente.java,e\4\e44e5576319d03e827cd6c4e89c9bb1a802ba57a
+_
+/src/main/java/aula18/exercicio1/Exercicio1.java,c\0\c043bb40b4624c529a44c3d2ddf3809a9a58f421
+Z
+*src/main/java/aula18/exercicio1/Conta.java,7\4\748c54f036524303122e20326515d7237a8b9cd0
+b
+2src/main/java/aula18/exercicio1/ControleConta.java,b\e\be80439ef216ff166f5f81f4cb637dc8f4514b10
