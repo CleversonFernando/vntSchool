@@ -1,7 +1,5 @@
 package aula20.exercicio2;
 
-import aula20.exercicio1.RegistradorDeFormas;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

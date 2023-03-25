@@ -1,4 +1,4 @@
-package aula20.exercicio1;
+package aula20.exercicio2;
 
 import aula20.exercicio2.Circulo;
 import aula20.exercicio2.Cor;
