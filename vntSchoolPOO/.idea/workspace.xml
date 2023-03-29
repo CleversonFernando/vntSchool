@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe7cfa4-66f4-4949-93ad-de04d38c7320" name="Changes" comment="" />
+    <list default="true" id="9fe7cfa4-66f4-4949-93ad-de04d38c7320" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../VntSchool java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VntSchool java/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchool java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cfrod/OneDrive/Área de Trabalho/TI/course/vntSchool/Projetos/vntSchoolPOO&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
@@ -49,13 +51,13 @@
       <recent name="aula16.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio2">
+  <component name="RunManager" selected="Application.Exercicio1">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula20.exercicio1.Exercicio1" />
+      <option name="MAIN_CLASS_NAME" value="aula22.exercicio1.Exercicio1" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula20.exercicio2.*" />
+          <option name="PATTERN" value="aula22.exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula18.exercicio2.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula18.exercicio2.Exercicio2" />
+    <configuration name="aula21.exercicio1.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula21.exercicio1.Exercicio1" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula18.exercicio2.*" />
+          <option name="PATTERN" value="aula21.exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.aula21.exercicio1.Exercicio1" />
         <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.aula20.exercicio1.Exercicio1" />
         <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio3" />
-        <item itemvalue="Application.aula18.exercicio2.Exercicio2" />
       </list>
     </recent_temporary>
   </component>
