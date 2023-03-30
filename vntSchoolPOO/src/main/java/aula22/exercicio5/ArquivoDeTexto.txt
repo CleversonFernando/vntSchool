@@ -1,0 +1,3 @@
+Novo método de ler arquivos texto
+com Bufferedreader e
+Filereader
