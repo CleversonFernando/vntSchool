@@ -133,5 +133,3 @@ e
 5src/main/java/aula22/exercicio2/ProdutoImportado.java,a\d\ad56c4d80c5c099003aa74ab92e53ff2feeeeaed
 a
 1src/main/java/aula22/exercicio2/ProdutoUsado.java,b\c\bc1f245e4452ee0313f3302dfe536392d10f6c1e
-_
-/src/main/java/aula23/exercicio1/Exercicio1.java,2\7\27655c6805172c9b4ec246234068594e3c0d472c

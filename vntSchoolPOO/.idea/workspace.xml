@@ -49,7 +49,7 @@
       <recent name="aula16.exercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aula23.exercicio1.Exercicio1">
+  <component name="RunManager" selected="Application.Exercicio3">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula22.exercicio1.Exercicio1" />
       <module name="vntSchoolPOO" />
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula20.exercicio2.Exercicio2" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula22.exercicio3.Exercicio3" />
       <module name="vntSchoolPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula20.exercicio2.*" />
+          <option name="PATTERN" value="aula22.exercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.aula23.exercicio1.Exercicio1" />
         <item itemvalue="Application.aula22.exercicio2.Exercicio2" />
         <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.aula21.exercicio1.Exercicio1" />
-        <item itemvalue="Application.Exercicio2" />
       </list>
     </recent_temporary>
   </component>
