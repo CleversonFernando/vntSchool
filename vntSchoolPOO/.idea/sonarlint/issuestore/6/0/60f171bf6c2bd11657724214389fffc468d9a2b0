@@ -1,0 +1,14 @@
+
+o
+java:S1192*"TDefine a constant instead of duplicating this literal "Valores invÃ¡lidos!" 3 times.(ùšßÏýÿÿÿÿ
+n	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(Õ›ø£
+s
+java:S1104"XMake funcionarios a static final constant or non-public and provide accessors if needed.(›ÎåÑþÿÿÿÿ
+M
+java:S1444"2Make this "public static funcionarios" field final(›ÎåÑþÿÿÿÿ
+8
+java:S2386"Make this member "protected".(›ÎåÑþÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(íÏ¹è

@@ -125,8 +125,6 @@ _
 /src/main/java/aula22/exercicio1/Exercicio1.java,2\a\2a71073ea10b102dc6f039dccc0214e7cb06412a
 _
 /src/main/java/aula22/exercicio2/Exercicio2.java,e\f\effe8bb4711b4e2bb889741563f457060733f77c
-h
-8src/main/java/aula20/exercicio2/RegistradorDeFormas.java,7\6\76f6a792eec2046bc307f605f70a02923e7b3752
 \
 ,src/main/java/aula22/exercicio2/Produto.java,b\4\b4732ac591160463a3bb85e7c861803a9ab8a9bd
 e
@@ -152,11 +150,23 @@ b
 _
 /src/main/java/aula23/exercicio1/Exercicio1.java,2\7\27655c6805172c9b4ec246234068594e3c0d472c
 _
-/src/main/java/aula22/exercicio5/Exercicio5.java,c\c\cc43e09619426dae1f5145177345dee2cce07d7c
-_
 /src/main/java/aula24/exercicio1/Exercicio1.java,7\3\73ba85119b50a55a28db7ff7b0d2869272813786
 X
 (src/main/java/aula24/exercicio1/Logs.txt,1\f\1f6b5b47bef91439436b8d5547ca995b96d34ddc
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+_
+/src/main/java/aula22/exercicio5/Exercicio5.java,c\c\cc43e09619426dae1f5145177345dee2cce07d7c
+_
+/src/main/java/aula24/exercicio2/Exercicio2.java,3\c\3c6ab86dd31d75338af9f57a89e9209dd5013f6d
+Y
+)src/main/java/aula24/exercicio3/Votos.txt,3\0\30861b3dab23187e84237641798461ded0a8a197
+_
+/src/main/java/aula24/exercicio3/Exercicio3.java,3\e\3e5a936f27593cd3a1b3d5e7c81b289705a67285
+h
+8src/main/java/aula20/exercicio2/RegistradorDeFormas.java,7\6\76f6a792eec2046bc307f605f70a02923e7b3752
+_
+/src/main/java/aula24/exercicio4/Exercicio4.java,6\0\60f171bf6c2bd11657724214389fffc468d9a2b0
+`
+0src/main/java/aula24/exercicio4/Funcionario.java,4\1\412c54d3c0ef0e604e3cc32e4dfadf2d9dfcf565
