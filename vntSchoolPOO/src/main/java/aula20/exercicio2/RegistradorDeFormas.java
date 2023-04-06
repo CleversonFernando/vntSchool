@@ -1,9 +1,5 @@
 package aula20.exercicio2;
 
-import aula20.exercicio2.Circulo;
-import aula20.exercicio2.Cor;
-import aula20.exercicio2.Retangulo;
-
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
@@ -78,5 +74,4 @@ public class RegistradorDeFormas {
             System.out.printf("Forma Areas: %.2f%n", item);
         }
     }
-
 }

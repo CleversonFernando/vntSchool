@@ -4,11 +4,6 @@ public class Conta {
 
     private Integer numeroDeConta;
     private String proprietario;
-
-    public void setBalanco(double balanco) {
-        this.balanco = balanco;
-    }
-
     private double balanco;
 
     public Conta(double balanco) {
@@ -26,16 +21,8 @@ public class Conta {
 
     }
 
-    public Integer getNumeroDeConta() {
-        return numeroDeConta;
-    }
-
     public void setNumeroDeConta(Integer numeroDeConta) {
         this.numeroDeConta = numeroDeConta;
-    }
-
-    public String getProprietario() {
-        return proprietario;
     }
 
     public void setProprietario(String proprietario) {

@@ -1,11 +1,5 @@
 
 U
-java:S1118":Add a private constructor to hide the implicit public one.(ήτ  ύÿÿÿÿ
+java:S1118":Add a private constructor to hide the implicit public one.(ήτ  ύÿÿÿÿ
 m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ª¬ψÿÿÿÿ
-o
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ψ¨ζωÿÿÿÿ
-o
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(·µ―²ωÿÿÿÿ
-j
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ª»¬
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ª¬ψÿÿÿÿ

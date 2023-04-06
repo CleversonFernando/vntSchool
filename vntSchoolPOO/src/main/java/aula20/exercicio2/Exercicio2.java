@@ -35,5 +35,7 @@ public class Exercicio2 {
             }
         } while (!verificador);
         RegistradorDeFormas.imprimirListaDeFormas();
+
+        sc.close();
     }
 }

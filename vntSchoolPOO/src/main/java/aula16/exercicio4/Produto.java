@@ -2,17 +2,13 @@ package aula16.exercicio4;
 
 public class Produto {
 
-    private Integer codigo;
-    private String nome;
-    private double preco;
-    private Integer quantidade;
+    protected Integer codigo;
+    protected String nome;
+    protected double preco;
+    protected Integer quantidade;
 
     public double calcularContaAPagar() {
         return quantidade * preco;
-    }
-
-    public Integer getCodigo() {
-        return codigo;
     }
 
     public void setCodigo(Integer codigo) {
@@ -27,16 +23,8 @@ public class Produto {
         this.nome = nome;
     }
 
-    public double getPreco() {
-        return preco;
-    }
-
     public void setPreco(double preco) {
         this.preco = preco;
-    }
-
-    public Integer getQuantidade() {
-        return quantidade;
     }
 
     public void setQuantidade(Integer quantidade) {

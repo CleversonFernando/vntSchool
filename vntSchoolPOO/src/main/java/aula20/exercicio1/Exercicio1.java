@@ -9,10 +9,11 @@ public class Exercicio1 {
 
         Scanner sc = new Scanner(System.in);
         double depositoInicial = 0;
+        double limiteEmprestimo = 1000;
         boolean verificador;
         int escolha;
 
-        ContaJuridica conta1 = new ContaJuridica(depositoInicial);
+        ContaJuridica conta1 = new ContaJuridica(depositoInicial, limiteEmprestimo);
 
         do {
             try {
@@ -71,5 +72,7 @@ public class Exercicio1 {
                 sc.next();
             }
         } while (!verificador);
+
+        sc.close();
     }
 }

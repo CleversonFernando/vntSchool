@@ -7,10 +7,9 @@ public class Conta implements ControleConta {
     private String proprietario;
     private double balanco;
 
-    public Conta(Integer numeroDaConta, String proprietario, double balanco) {
+    public Conta(Integer numeroDaConta, String proprietario) {
         this.numeroDaConta = numeroDaConta;
         this.proprietario = proprietario;
-        this.balanco = balanco;
     }
 
     public void depositar(double valorDeposito) {
@@ -20,19 +19,9 @@ public class Conta implements ControleConta {
     public void sacar(double valorSaque) {
         balanco = (balanco - valorSaque) - 5.0;
     }
-    public String getProprietario() {
-        return proprietario;
-    }
 
     public void setProprietario(String proprietario) {
         this.proprietario = proprietario;
-    }
-    public Integer getNumeroDaConta() {
-        return numeroDaConta;
-    }
-
-    public double getBalanco() {
-        return balanco;
     }
 
     @Override

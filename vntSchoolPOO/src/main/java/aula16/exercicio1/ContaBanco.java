@@ -5,26 +5,22 @@ public class ContaBanco {
     public Integer numeroDaConta;
     protected String tipo;
     private String dono;
-    private double saldo;
-    private boolean status;
+    private double saldo = 0;
+    private boolean status = false;
 
-    public ContaBanco() {
-    }
-
-    public ContaBanco(Integer numeroDaConta, String tipo, String dono, double saldo, boolean status) {
+    public ContaBanco(Integer numeroDaConta, String tipo, String dono) {
         this.numeroDaConta = numeroDaConta;
         this.tipo = tipo;
         this.dono = dono;
-        this.saldo = saldo;
-        this.status = status;
+
     }
 
     public void abrirConta() {
         if (tipo.equals("CC")) {
-            System.out.println("Parabéns " + dono + " você abriu uma conta corrente e ganhou R$50");
+            System.out.println("Parabéns " + dono + " sua conta corrente é Nº" + numeroDaConta + " e ganhou R$50");
             saldo = 50;
         } else {
-            System.out.println("Parabéns " + dono + "  você abriu uma conta poupança e ganhou R$150");
+            System.out.println("Parabéns " + dono + " sua conta puupança é Nº" + numeroDaConta + " e ganhou R$150");
             saldo = 150;
         }
         status = true;
