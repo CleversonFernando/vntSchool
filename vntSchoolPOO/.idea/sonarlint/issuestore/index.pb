@@ -126,8 +126,6 @@ Y
 )src/main/java/aula24/exercicio3/Votos.txt,3\0\30861b3dab23187e84237641798461ded0a8a197
 _
 /src/main/java/aula24/exercicio3/Exercicio3.java,3\e\3e5a936f27593cd3a1b3d5e7c81b289705a67285
-_
-/src/main/java/aula24/exercicio4/Exercicio4.java,6\0\60f171bf6c2bd11657724214389fffc468d9a2b0
 `
 0src/main/java/aula24/exercicio4/Funcionario.java,4\1\412c54d3c0ef0e604e3cc32e4dfadf2d9dfcf565
 _
@@ -170,9 +168,3 @@ _
 /src/main/java/aula20/exercicio2/Exercicio2.java,0\8\083a3f3cec2948ba42cd60a8630275a3c76f58a4
 \
 ,src/main/java/aula20/exercicio2/Circulo.java,d\c\dcd02e1bf8641bdaca3012d0c0beaedd08837a66
-\
-,src/main/java/aula25/exercicio1/Produto.java,0\8\08a6f016b5bc5c40f0c71ae9b8e8c84146fcacba
-_
-/src/main/java/aula25/exercicio1/Exercicio1.java,d\c\dc9569d06ac11456977ce18139605a5fc97bd66f
-_
-/src/main/java/aula26/exercicio1/Exercicio1.java,f\8\f8d681d7b5e1cf6bb37120c43ae068879f2ac2a7
