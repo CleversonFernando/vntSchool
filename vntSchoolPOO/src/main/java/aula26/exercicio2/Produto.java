@@ -1,6 +1,6 @@
 package aula26.exercicio2;
 
-public class Produto {
+public class Produto implements Comparable<Produto> {
 
     private String nome;
     private double preco;
@@ -27,11 +27,12 @@ public class Produto {
     }
 
     @Override
-    public String toString() {
-        final StringBuilder sb = new StringBuilder("Produto{");
-        sb.append("nome='").append(nome).append('\'');
-        sb.append(", preco=").append(preco);
-        sb.append('}');
-        return sb.toString();
+    public int compareTo(Produto p2) {
+        if (this.preco > p2.getPreco()) {
+            return 1;
+        } else if (this.preco < p2.getPreco()) {
+            return -1;
+        } else
+            return 0;
     }
 }

@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class Exercicio2 {
@@ -29,8 +30,11 @@ public class Exercicio2 {
         }
         double media = produtos.stream().mapToDouble(Produto::getPreco).average().orElse(0.0);
         System.out.printf("Média preços: %.2f%n", media);
-                produtos.stream().filter(prdutoAbaixoDaMedia -> prdutoAbaixoDaMedia.getPreco() < media).forEach(System.out::println);
-        }
+
+        Collections.sort(produtos);
+        produtos.stream().filter(prdutoAbaixoDaMedia -> prdutoAbaixoDaMedia.getPreco() < media)
+                .forEach(produtoEncontrado -> System.out.println(produtoEncontrado.getNome()));
     }
+}
 
 
