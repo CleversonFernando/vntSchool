@@ -84,8 +84,6 @@ c
 k
 ;src/main/java/aula22/exercicio1/FuncionarioTercerizado.java,0\b\0b6212f81578dce2df5ec32945dea7cfc353f84c
 _
-/src/main/java/aula22/exercicio1/Exercicio1.java,2\a\2a71073ea10b102dc6f039dccc0214e7cb06412a
-_
 /src/main/java/aula22/exercicio2/Exercicio2.java,e\f\effe8bb4711b4e2bb889741563f457060733f77c
 \
 ,src/main/java/aula22/exercicio2/Produto.java,b\4\b4732ac591160463a3bb85e7c861803a9ab8a9bd
@@ -184,3 +182,5 @@ _
 0src/main/java/aula28/exercicio1/Calculadora.java,9\1\91823db8572c1654461bae0fa7880fd0f45ca2d1
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+_
+/src/main/java/aula22/exercicio1/Exercicio1.java,2\a\2a71073ea10b102dc6f039dccc0214e7cb06412a
